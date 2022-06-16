@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anya-in
+- 👋 Hi, I’m Anya Inara
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on DS
