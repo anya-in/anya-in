@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anya Inara
 - 👀 I’m interested in AI
-- 🌱 I’m currently pursuing my M.S. in Data Science
+- 🌱 I’m currently pursuing my M.S. in Data Science at PACE, NY
 - 💞️ I’m looking to collaborate on DS
 - 📫 Reach me lavanyaalaharikalla@gmail.com
 
